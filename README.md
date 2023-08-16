@@ -1,5 +1,5 @@
 <h2>Hello World!</h2>
-<p>My name is Ighor Eckert. I'm 27 years old. I live in Brazil and I want to be a Front End Developer!</p>
+<p>My name is Ighor Eckert. I'm 29 years old. I live in Brazil and I want to be a Front End Developer!</p>
 
 <h2>Skills</h2>
   <ul>
